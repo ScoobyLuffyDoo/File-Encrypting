@@ -5,7 +5,6 @@ name = "pypi"
 
 [packages]
 cryptography = "*"
-pillow = "*"
 
 [dev-packages]
 
